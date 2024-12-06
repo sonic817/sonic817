@@ -54,7 +54,7 @@ I'm strongly focused on Back-end Development.
 
 ### 🖥️ **Platforms**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/apache-tomcat.png" alt="Apache Tomcat" width="40"/>
+    <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40"/>
 </div>
 
