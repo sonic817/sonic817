@@ -38,24 +38,18 @@ I'm strongly focused on Back-end Development.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/storage.png" alt="AWS S3" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/cloud.png" alt="AWS EC2" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="AWS RDS" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure Blob Storage" width="40"/>
 </div>
 
 ### 🛠️ **Tools**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2022.png" alt="Visual Studio Code" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/xshell.png" alt="XShell" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/putty.png" alt="PuTTY" width="40"/>
 </div>
 
 ### 🖥️ **Platforms**
