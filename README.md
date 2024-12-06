@@ -23,13 +23,9 @@ I'm strongly focused on Back-end Development.
 ### 🛠️ **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-### 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff)
+### 📊 GitHub Stats and Most Used Languages
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=default&bg_color=ffffff)
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-linkedin-profile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:youremail@example.com)
-
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff" alt="Most Used Languages" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=default&bg_color=ffffff" alt="GitHub Stats" style="width: 48%;"/>
+</div>
