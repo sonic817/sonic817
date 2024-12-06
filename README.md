@@ -15,40 +15,35 @@ I'm strongly focused on Back-end Development.
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
 
 ### ⚙️ **Frameworks and Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" alt="React" width="40"/>
+<img src="https://img.icons8.com/nolan/64/spring-logo.png" alt="Spring Boot" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
 
 ### 💾 **Databases**
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Microsoft SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
+<img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40"/>
 
 ### ☁️ **Cloud and DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40"/>
 
 ### 🛠️ **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat)
-![XShell](https://img.shields.io/badge/-XShell-FF4500?logo=xshell&logoColor=white&style=flat)
-![PuTTY](https://img.shields.io/badge/-PuTTY-6DB33F?logo=putty&logoColor=white&style=flat)
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40"/>
 
 ### 🖥️ **Platforms**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=black&style=flat)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
+img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/tomcat.png" alt="Apache Tomcat" width="40"/>
 
 ### 🎮 **Other Tools**
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
+<img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/>
 
 ### 📊 GitHub Stats and Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff)
