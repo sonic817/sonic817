@@ -43,24 +43,23 @@ I'm strongly focused on Back-end Development.
 ### 🛠️ **Tools**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-  <img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/>
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40"/>
 </div>
 
 ### 🖥️ **Platforms**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/>
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="40"/>
 </div>
 
 ### 🎮 **Other Tools**
