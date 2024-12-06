@@ -25,7 +25,7 @@ I'm strongly focused on Back-end Development.
 
 ### 📊 GitHub Stats and Most Used Languages
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff" alt="Most Used Languages" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=default&bg_color=ffffff" alt="GitHub Stats" style="width: 48%;"/>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: stretch; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff" alt="Most Used Languages" style="width: 48%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=default&bg_color=ffffff" alt="GitHub Stats" style="width: 48%; height: auto;"/>
 </div>
