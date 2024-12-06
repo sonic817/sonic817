@@ -1,3 +1,5 @@
+# Hi there 👋, I'm sonic817
+
 I'm strongly focused on Back-end Development.
 
 - 🔗 **All of my projects are available at**: [GitHub Repositories](https://github.com/sonic817?tab=repositories)
