@@ -24,8 +24,4 @@ I'm strongly focused on Back-end Development.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ### 📊 GitHub Stats and Most Used Languages
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff" alt="Most Used Languages" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=default&bg_color=ffffff" alt="GitHub Stats" style="width: 48%;"/>
-</div>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=default&bg_color=ffffff)
