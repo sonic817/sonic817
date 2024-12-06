@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm sonic817
 
 I'm strongly focused on Back-end Development.
 
@@ -33,11 +33,17 @@ I'm strongly focused on Back-end Development.
 
 ---
 
-### 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=radical)
+### 📊 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmnic2&layout=compact&theme=radical)
 
 ---
 
-### 📫 **Connect with me**
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmmnic2&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:youremail@example.com)
+
