@@ -6,13 +6,13 @@ I'm strongly focused on Back-end Development.
 - ✉️ **How to reach me**: hsyle817@gmail.com
 
 ### 🛠️ **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
 
 ### ⚙️ **Frameworks and Libraries**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
