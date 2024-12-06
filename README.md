@@ -18,7 +18,7 @@ I'm strongly focused on Back-end Development.
 
 ### ⚙️ **Frameworks and Libraries**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" alt="React" width="40"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
   <img width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40"/>
@@ -27,7 +27,7 @@ I'm strongly focused on Back-end Development.
 ### 💾 **Databases**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40"/>
-	<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40"/>
  	<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
@@ -42,7 +42,10 @@ I'm strongly focused on Back-end Development.
 
 ### 🛠️ **Tools**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/>
