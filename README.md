@@ -30,7 +30,7 @@ I'm strongly focused on Back-end Development.
   <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mariadb-logo.png" alt="MariaDB" width="40"/>
+ 	<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="40"/>
 </div>
 
@@ -54,7 +54,7 @@ I'm strongly focused on Back-end Development.
 
 ### 🖥️ **Platforms**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <img width="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" title="Tomcat"/>
   <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" width="40"/>
 </div>
 
