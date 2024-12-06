@@ -19,7 +19,7 @@ I'm strongly focused on Back-end Development.
 ### ⚙️ **Frameworks and Libraries**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" alt="React" width="40"/>
-  <img src="https://img.icons8.com/nolan/64/spring-logo.png" alt="Spring Boot" width="40"/>
+  <img width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40"/>
 </div>
