@@ -27,7 +27,7 @@ I'm strongly focused on Back-end Development.
 ### 💾 **Databases**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40"/>
  	<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="MariaDB" title="MariaDB"/></code>
