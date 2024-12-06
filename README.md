@@ -43,7 +43,7 @@ I'm strongly focused on Back-end Development.
 ### 🛠️ **Tools**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2022.png" alt="Visual Studio Code" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40"/>
