@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/c2dbf31b-2208-4f46-a8fd-0fb6cc0ba330)# Hi there 👋, I'm sonic817
-
 I'm strongly focused on Back-end Development.
 
 - 🔗 **All of my projects are available at**: [GitHub Repositories](https://github.com/sonic817?tab=repositories)
